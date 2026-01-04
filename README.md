@@ -30,4 +30,3 @@ If you’re using **g++ (GCC)**:
 ```sh
 g++ "TIC TAK TOE.cpp" -o tictactoe
 ./tictactoe
-H
